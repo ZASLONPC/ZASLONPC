@@ -4,11 +4,11 @@
 Decent at 3D Modelling and Texture Artwork
 Bad at coding
 
-| Programs Used     |
-|-------------------|
-| Substance Painter |
-| Blender           |
-| Photoshop         |
+|   Programs Used   |       Game Modding       |
+|-------------------|--------------------------|
+| Substance Painter | CoD4 / CoDWaW (formerly) |
+| Blender           | Fallout 4                |
+| Photoshop         | Skyrim                   |
 
 ✨ Modding / Mapping
     - Fallout 4
