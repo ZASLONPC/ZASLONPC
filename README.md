@@ -4,6 +4,12 @@
 Decent at 3D Modelling and Texture Artwork
 Bad at coding
 
+| Programs Used     |
+|-------------------|
+| Substance Painter |
+| Blender           |
+| Photoshop         |
+
 ✨ Modding / Mapping
     - Fallout 4
     - Skyrim
